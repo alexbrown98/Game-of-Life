@@ -7,5 +7,5 @@ type "make" in a terminal window while in the code directory
 while running, type "p" to pause and unpause execution, and "s" to produce an output image of the current state of the board, and
 "q" to quit execution.
 
-![What is this](images/img2.pgm)
+![What is this](images/img1.png)
 
